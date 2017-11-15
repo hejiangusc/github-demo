@@ -1,0 +1,4 @@
+Initial a project:
+git init [project]
+
+
