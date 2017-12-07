@@ -1,4 +1,12 @@
 Initial a project:
 git init [project]
 
+git commit --am "xxx"
+ By doing this, we can combine git add and git commit into one step
 
+git reset: back from commit
+git checkout: revert your changes
+
+git show [commit No.]: will show detail of that commit
+
+git config --global alias.hist "log --all --graph --decorate --oneline" 
